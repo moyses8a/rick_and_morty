@@ -1,3 +1,8 @@
+:root {
+  --aquarelle: #5faab4;
+  --azulado: #231e4b;
+}
+
 .App {
   text-align: center;
 }

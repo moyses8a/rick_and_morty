@@ -1,0 +1,13 @@
+.header {
+    display: flex;
+    flex-flow: row;
+    background: #5faab4;
+    padding: 10px;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.header__logo {
+    height: 50px;
+    margin: auto 20px;
+}

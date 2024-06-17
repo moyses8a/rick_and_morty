@@ -1,0 +1,16 @@
+@import url('./../../App.css');
+
+.simple-button {
+    border: none;
+    background: var(--azulado);
+    border-radius: 5px;
+    color: white;
+    padding: 5px 8px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+.simple-button:disabled {
+    opacity: 0.8;
+    cursor: auto;
+}

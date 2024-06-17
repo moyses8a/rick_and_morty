@@ -1,0 +1,13 @@
+@import url('./../../App.css');
+
+.button {
+    background: var(--azulado);
+    color: white;
+    height: 27px;
+    border: none;
+    border-radius: 5px;
+    width: 27px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

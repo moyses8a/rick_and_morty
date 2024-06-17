@@ -1,0 +1,33 @@
+@import url('./../../App.css');
+
+.card {
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    align-content: center;
+    align-items: center;
+    background: var(--azulado);
+    color: white;
+    height: 400px;
+}
+.card__image {
+    width: 200px;
+}
+
+.card__info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    height: 200px;
+}
+.info__header {
+    text-align: center;
+}
+.info__specie {
+
+}
+.info__more-info {
+    color: white;
+    opacity: 0.9;
+}
